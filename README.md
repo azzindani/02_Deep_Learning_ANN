@@ -106,9 +106,30 @@ To run this notebook you can follow the steps below:
     <img src="/assets/008.png" alt="Logo" width="1000">
   </div>
 
-You can directly preview the detailed process of data analytic, also you can edit anything you need inside the notebook and test it.
+For deep learning process, you may need more powerful engine. You can follow the steps below if you need to change the runtime using GPU or TPU instead of CPU only,
+* Click the small triangle on the top right corner, and select "Change runtime type"
+  <div align="center">
+    <img src="/assets/009.png" alt="Logo" width="1000">
+  </div>
+  
+* You can select GPU or TPU to be used for free. But you have to be mindful that the free type will last for 12 hours maximum, and mostly you only get it for 1-2 hours
+  <div align="center">
+    <img src="/assets/010.png" alt="Logo" width="1000">
+  </div>
+  
+* The pop up notificaion will show and just select "ok"
+  <div align="center">
+    <img src="/assets/011.png" alt="Logo" width="1000">
+  </div>
+  
+* The you press save to continue
+  <div align="center">
+    <img src="/assets/012.png" alt="Logo" width="1000">
+  </div>
+
+After that you can directly preview the detailed process of data analytic, also you can edit anything you need inside the notebook and test it.
 <div align="center">
-  <img src="/assets/009.png" alt="Logo" width="1000">
+  <img src="/assets/013.png" alt="Logo" width="1000">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
